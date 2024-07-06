@@ -9,7 +9,7 @@ Transformar y visualizar los datos que permita a los propietario de la tienda ob
 
 ## Resultados
 1. Aumento estacional de productos de verano.
-   - Las ventas de productos relacionados con el verano como trajes de baño, bloqueador solor y articulos deñ jardin mostraron un incremento durante los meses de junio a agosto.
+   - Las ventas de productos relacionados con el verano como trajes de baño, bloqueador solor y articulos deñ jardin mostraron un ***incremento durante los meses de junio a agosto.***
 
 3. Bajo de rendimiento en la categoria de electronica
    - Esta categoría ha experimentado una disminución constante en las ventas al comprarla con otras como ropa  y belleza.
