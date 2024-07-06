@@ -13,6 +13,8 @@ Transformar y visualizar los datos que permita a los propietario de la tienda ob
 
 3. Bajo de rendimiento en la categoria de electronica
    - Esta categoría ha experimentado una disminución constante en las ventas al comprarla con otras como ropa  y belleza.
-  
 
  ![IMG_5153](https://github.com/ALizardo2/MicrodoftExcel/assets/174885512/fc0a8178-4ede-429c-b277-eb37cb56a2bd)
+
+### Código utilizando en el análisis 
+``` SELECT * FROM table```
